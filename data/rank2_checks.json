@@ -1,0 +1,37 @@
+{
+"4_1#-5_1": {
+"det": 25,
+"s": 4,
+"linking_signs": [],
+"odd_signs": [],
+"donaldson": {},
+"obstructed": true,
+"obstructed_linking_only": true,
+"obstructed_odd": true,
+"obstructed_odd_signed": true
+},
+"4_1#5_1": {
+"det": 25,
+"s": 4,
+"linking_signs": [],
+"odd_signs": [],
+"donaldson": {},
+"obstructed": true,
+"obstructed_linking_only": true,
+"obstructed_odd": true,
+"obstructed_odd_signed": true
+},
+"8_18": {
+"det": 45,
+"s": 4,
+"linking_signs": [
+0
+],
+"odd_signs": [],
+"donaldson": {},
+"obstructed": true,
+"obstructed_linking_only": true,
+"obstructed_odd": true,
+"obstructed_odd_signed": true
+}
+}

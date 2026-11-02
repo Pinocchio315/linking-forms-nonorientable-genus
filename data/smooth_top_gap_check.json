@@ -1,0 +1,418 @@
+{
+ "all_checks_pass": true,
+ "hits_with_tau_zero": 0,
+ "knots": {
+  "12a_820": {
+   "diagram_source": "reidemeister_II_III",
+   "face_edges": [
+    1,
+    8,
+    3,
+    29,
+    19,
+    13
+   ],
+   "band_edges": [
+    8,
+    29
+   ],
+   "t": 2,
+   "J_label": "hyperbolic, volume 19.45493",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 18,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": -1,
+   "tau_over_all_hits": {
+    "hyperbolic, volume 19.45493 tau=-1": 2
+   }
+  },
+  "12n_25": {
+   "diagram_source": "knotinfo",
+   "face_edges": [
+    1,
+    16,
+    23,
+    18,
+    21,
+    11,
+    5
+   ],
+   "band_edges": [
+    1,
+    5
+   ],
+   "t": -1,
+   "J_label": "13n_1496",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 13,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": 1,
+   "tau_over_all_hits": {
+    "13n_1496 tau=1": 4539,
+    "hyperbolic, volume 17.41777 tau=1": 6,
+    "K14n7708 tau=1": 4
+   }
+  },
+  "12n_198": {
+   "diagram_source": "reidemeister_II_III",
+   "face_edges": [
+    4,
+    9,
+    19,
+    24,
+    21,
+    31,
+    16
+   ],
+   "band_edges": [
+    4,
+    24
+   ],
+   "t": 1,
+   "J_label": "hyperbolic, volume 11.84633",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 15,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": -1,
+   "tau_over_all_hits": {
+    "hyperbolic, volume 11.84633 tau=-1": 5
+   }
+  },
+  "12n_550": {
+   "diagram_source": "reidemeister_II_III",
+   "face_edges": [
+    33,
+    15,
+    28,
+    13,
+    3,
+    22
+   ],
+   "band_edges": [
+    15,
+    3
+   ],
+   "t": 1,
+   "J_label": "13n_1496",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 13,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": -1,
+   "tau_over_all_hits": {
+    "13n_1496 tau=-1": 51
+   }
+  },
+  "13a_26": {
+   "diagram_source": "reidemeister_II_III",
+   "face_edges": [
+    1,
+    12,
+    6,
+    10,
+    4,
+    14
+   ],
+   "band_edges": [
+    1,
+    10
+   ],
+   "t": 0,
+   "J_label": "13n_1496",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 13,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": -1,
+   "tau_over_all_hits": {
+    "13n_1496 tau=-1": 1
+   }
+  },
+  "13a_938": {
+   "diagram_source": "reidemeister_II_III",
+   "face_edges": [
+    4,
+    16,
+    6,
+    18,
+    28,
+    20,
+    25,
+    22,
+    36,
+    14
+   ],
+   "band_edges": [
+    16,
+    25
+   ],
+   "t": -2,
+   "J_label": "hyperbolic, volume 23.01259",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 19,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": 1,
+   "tau_over_all_hits": {
+    "hyperbolic, volume 23.01259 tau=1": 1,
+    "hyperbolic, volume 17.65759 tau=1": 2
+   }
+  },
+  "13a_945": {
+   "diagram_source": "reidemeister_II_III",
+   "face_edges": [
+    16,
+    24,
+    10,
+    32,
+    8
+   ],
+   "band_edges": [
+    24,
+    32
+   ],
+   "t": -1,
+   "J_label": "K14n7708",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 14,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": 1,
+   "tau_over_all_hits": {
+    "K14n7708 tau=1": 7,
+    "13n_1496 tau=1": 9
+   }
+  },
+  "13a_1601": {
+   "diagram_source": "knotinfo",
+   "face_edges": [
+    1,
+    8,
+    16,
+    6,
+    20,
+    4
+   ],
+   "band_edges": [
+    8,
+    6
+   ],
+   "t": -1,
+   "J_label": "13n_1496",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 13,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": 1,
+   "tau_over_all_hits": {
+    "13n_1496 tau=1": 898
+   }
+  },
+  "13a_3543": {
+   "diagram_source": "reidemeister_II_III",
+   "face_edges": [
+    34,
+    22,
+    7,
+    4,
+    13,
+    2,
+    15
+   ],
+   "band_edges": [
+    34,
+    13
+   ],
+   "t": 2,
+   "J_label": "hyperbolic, volume 23.61190",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 19,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": -1,
+   "tau_over_all_hits": {
+    "hyperbolic, volume 23.61190 tau=-1": 2
+   }
+  },
+  "13a_4039": {
+   "diagram_source": "reidemeister_II_III",
+   "face_edges": [
+    33,
+    14,
+    24,
+    16,
+    4,
+    18,
+    6,
+    20
+   ],
+   "band_edges": [
+    14,
+    4
+   ],
+   "t": -1,
+   "J_label": "hyperbolic, volume 16.80171",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 15,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": 1,
+   "tau_over_all_hits": {
+    "hyperbolic, volume 16.80171 tau=1": 1
+   }
+  },
+  "13a_4127": {
+   "diagram_source": "knotinfo",
+   "face_edges": [
+    26,
+    15,
+    24,
+    17,
+    9,
+    19,
+    5
+   ],
+   "band_edges": [
+    17,
+    19
+   ],
+   "t": -1,
+   "J_label": "13n_1496",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 13,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": 1,
+   "tau_over_all_hits": {
+    "13n_1496 tau=1": 500
+   }
+  },
+  "13a_4578": {
+   "diagram_source": "knotinfo",
+   "face_edges": [
+    3,
+    14,
+    21,
+    12,
+    23,
+    10,
+    25,
+    8,
+    16
+   ],
+   "band_edges": [
+    3,
+    10
+   ],
+   "t": -2,
+   "J_label": "hyperbolic, volume 15.95427",
+   "diagram_is_K": true,
+   "rebuilt_J_is_stored_J": true,
+   "add_one_band_is_J": true,
+   "J_components": 1,
+   "J_crossings_simplified": 15,
+   "alexander_seifert_unit": true,
+   "alexander_hfk": [
+    [
+     0,
+     1
+    ]
+   ],
+   "tau": 1,
+   "tau_over_all_hits": {
+    "hyperbolic, volume 15.95427 tau=1": 281
+   }
+  }
+ }
+}

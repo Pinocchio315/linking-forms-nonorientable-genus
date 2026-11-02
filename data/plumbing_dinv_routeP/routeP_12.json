@@ -1,0 +1,128 @@
+{
+ "13n_1002": {
+  "bad": 1,
+  "det": 43,
+  "h1": [
+   43
+  ],
+  "u": "[1,2]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_1134": {
+  "bad": 1,
+  "det": 11,
+  "h1": [
+   11
+  ],
+  "u": "[1,2]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_1576": {
+  "bad": 2,
+  "det": 3,
+  "h1": [
+   3
+  ],
+  "u": "[1,2]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_1618": {
+  "bad": 2,
+  "det": 11,
+  "h1": [
+   11
+  ],
+  "u": "[1,2]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_199": {
+  "bad": 1,
+  "det": 71,
+  "h1": [
+   71
+  ],
+  "u": "[1,3]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_2271": {
+  "bad": 1,
+  "det": 7,
+  "h1": [
+   7
+  ],
+  "u": "[2,3]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_2276": {
+  "bad": 2,
+  "det": 19,
+  "h1": [
+   19
+  ],
+  "u": "[1,2]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_3505": {
+  "bad": 1,
+  "det": 81,
+  "h1": [
+   3,
+   27
+  ],
+  "u": "[1,3]",
+  "passing": {
+   "sign": 1,
+   "l": 1,
+   "M": 9
+  },
+  "obstructed": false
+ },
+ "13n_3547": {
+  "bad": 1,
+  "det": 11,
+  "h1": [
+   11
+  ],
+  "u": "[1,2]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_560": {
+  "bad": 1,
+  "det": 27,
+  "h1": [
+   27
+  ],
+  "u": "[1,2]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_594": {
+  "bad": 1,
+  "det": 87,
+  "h1": [
+   3,
+   29
+  ],
+  "u": "[2,3]",
+  "passing": null,
+  "obstructed": true
+ },
+ "13n_628": {
+  "bad": 2,
+  "det": 3,
+  "h1": [
+   3
+  ],
+  "u": "[1,2]",
+  "passing": null,
+  "obstructed": true
+ }
+}

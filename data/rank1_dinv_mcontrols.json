@@ -1,0 +1,2511 @@
+{
+"10_124": {
+"definite": true,
+"det": 1,
+"flipped": true,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"10_125": {
+"definite": true,
+"det": 11,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 11,
+"M": 1
+},
+"obstructed": false
+},
+"10_126": {
+"definite": true,
+"det": 19,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 19,
+"M": 1
+},
+"obstructed": false
+},
+"10_127": {
+"definite": true,
+"det": 29,
+"flipped": true,
+"rank": 4,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 29,
+"M": 1
+},
+"obstructed": false
+},
+"10_128": {
+"definite": true,
+"det": 11,
+"flipped": true,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 11,
+"M": 1
+},
+"obstructed": false
+},
+"10_129": {
+"definite": true,
+"det": 25,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 5
+},
+"obstructed": false
+},
+"10_130": {
+"definite": true,
+"det": 17,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 17,
+"M": 1
+},
+"obstructed": false
+},
+"10_131": {
+"definite": true,
+"det": 31,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 31,
+"M": 1
+},
+"obstructed": false
+},
+"10_133": {
+"definite": true,
+"det": 19,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 19,
+"M": 1
+},
+"obstructed": false
+},
+"10_134": {
+"definite": true,
+"det": 23,
+"flipped": true,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": -1,
+"l": 23,
+"M": 1
+},
+"obstructed": false
+},
+"10_137": {
+"definite": true,
+"det": 25,
+"flipped": true,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 5
+},
+"obstructed": false
+},
+"10_139": {
+"definite": true,
+"det": 3,
+"flipped": false,
+"rank": 4,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 3,
+"M": 1
+},
+"obstructed": false
+},
+"10_140": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"10_142": {
+"definite": true,
+"det": 15,
+"flipped": true,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": -1,
+"l": 15,
+"M": 1
+},
+"obstructed": false
+},
+"10_143": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"10_144": {
+"definite": true,
+"det": 39,
+"flipped": true,
+"rank": 4,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 39,
+"M": 1
+},
+"obstructed": false
+},
+"10_145": {
+"definite": true,
+"det": 3,
+"flipped": true,
+"rank": 7,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 1
+},
+"obstructed": false
+},
+"10_146": {
+"definite": true,
+"det": 33,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 33,
+"M": 1
+},
+"obstructed": false
+},
+"10_147": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"11n_1": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"11n_102": {
+"definite": true,
+"det": 3,
+"flipped": true,
+"rank": 5,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 3,
+"M": 1
+},
+"obstructed": false
+},
+"11n_104": {
+"definite": true,
+"det": 3,
+"flipped": false,
+"rank": 8,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 1
+},
+"obstructed": false
+},
+"11n_105": {
+"definite": true,
+"det": 69,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 69,
+"M": 1
+},
+"obstructed": false
+},
+"11n_106": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"11n_107": {
+"definite": true,
+"det": 21,
+"flipped": false,
+"rank": 7,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 21,
+"M": 1
+},
+"obstructed": false
+},
+"11n_122": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"11n_13": {
+"definite": true,
+"det": 15,
+"flipped": true,
+"rank": 8,
+"d_spin": "3/2",
+"passing": {
+"sign": -1,
+"l": 15,
+"M": 1
+},
+"obstructed": false
+},
+"11n_139": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 8,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"11n_14": {
+"definite": true,
+"det": 45,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 3
+},
+"obstructed": false
+},
+"11n_15": {
+"definite": true,
+"det": 35,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 35,
+"M": 1
+},
+"obstructed": false
+},
+"11n_16": {
+"definite": true,
+"det": 37,
+"flipped": true,
+"rank": 6,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 37,
+"M": 1
+},
+"obstructed": false
+},
+"11n_17": {
+"definite": true,
+"det": 47,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 47,
+"M": 1
+},
+"obstructed": false
+},
+"11n_18": {
+"definite": true,
+"det": 33,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 33,
+"M": 1
+},
+"obstructed": false
+},
+"11n_19": {
+"definite": true,
+"det": 5,
+"flipped": true,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 1
+},
+"obstructed": false
+},
+"11n_20": {
+"definite": true,
+"det": 23,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 23,
+"M": 1
+},
+"obstructed": false
+},
+"11n_3": {
+"definite": true,
+"det": 43,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"11n_49": {
+"definite": true,
+"det": 1,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"11n_50": {
+"definite": true,
+"det": 25,
+"flipped": false,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 5
+},
+"obstructed": false
+},
+"11n_52": {
+"definite": true,
+"det": 59,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 59,
+"M": 1
+},
+"obstructed": false
+},
+"11n_54": {
+"definite": true,
+"det": 43,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"11n_58": {
+"definite": true,
+"det": 35,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 35,
+"M": 1
+},
+"obstructed": false
+},
+"11n_59": {
+"definite": true,
+"det": 53,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 53,
+"M": 1
+},
+"obstructed": false
+},
+"11n_60": {
+"definite": true,
+"det": 31,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 31,
+"M": 1
+},
+"obstructed": false
+},
+"11n_62": {
+"definite": true,
+"det": 33,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": -1,
+"l": 33,
+"M": 1
+},
+"obstructed": false
+},
+"11n_64": {
+"definite": true,
+"det": 21,
+"flipped": true,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": -1,
+"l": 21,
+"M": 1
+},
+"obstructed": false
+},
+"11n_70": {
+"definite": true,
+"det": 13,
+"flipped": true,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 1
+},
+"obstructed": false
+},
+"11n_71": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 7,
+"M": 3
+},
+"obstructed": false
+},
+"11n_73": {
+"definite": true,
+"det": 9,
+"flipped": false,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"11n_74": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"11n_75": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 7,
+"M": 3
+},
+"obstructed": false
+},
+"11n_76": {
+"definite": true,
+"det": 45,
+"flipped": true,
+"rank": 7,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 3
+},
+"obstructed": false
+},
+"11n_77": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 5,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 3,
+"M": 3
+},
+"obstructed": false
+},
+"11n_78": {
+"definite": true,
+"det": 45,
+"flipped": true,
+"rank": 7,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 3
+},
+"obstructed": false
+},
+"11n_79": {
+"definite": true,
+"det": 15,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 15,
+"M": 1
+},
+"obstructed": false
+},
+"11n_81": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 8,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 3
+},
+"obstructed": false
+},
+"11n_82": {
+"definite": true,
+"det": 19,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 19,
+"M": 1
+},
+"obstructed": false
+},
+"11n_83": {
+"definite": true,
+"det": 49,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 49,
+"M": 1
+},
+"obstructed": false
+},
+"11n_87": {
+"definite": true,
+"det": 51,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 51,
+"M": 1
+},
+"obstructed": false
+},
+"11n_88": {
+"definite": true,
+"det": 11,
+"flipped": false,
+"rank": 8,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 11,
+"M": 1
+},
+"obstructed": false
+},
+"11n_89": {
+"definite": true,
+"det": 61,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 61,
+"M": 1
+},
+"obstructed": false
+},
+"11n_91": {
+"definite": true,
+"det": 31,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 31,
+"M": 1
+},
+"obstructed": false
+},
+"12n_12": {
+"definite": true,
+"det": 79,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 79,
+"M": 1
+},
+"obstructed": false
+},
+"12n_121": {
+"definite": true,
+"det": 1,
+"flipped": true,
+"rank": 9,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"12n_142": {
+"definite": true,
+"det": 43,
+"flipped": false,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"12n_143": {
+"definite": true,
+"det": 13,
+"flipped": false,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 1
+},
+"obstructed": false
+},
+"12n_144": {
+"definite": true,
+"det": 75,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 75,
+"M": 1
+},
+"obstructed": false
+},
+"12n_145": {
+"definite": true,
+"det": 25,
+"flipped": true,
+"rank": 8,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 25,
+"M": 1
+},
+"obstructed": false
+},
+"12n_146": {
+"definite": true,
+"det": 47,
+"flipped": false,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 47,
+"M": 1
+},
+"obstructed": false
+},
+"12n_149": {
+"definite": true,
+"det": 5,
+"flipped": true,
+"rank": 5,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 1
+},
+"obstructed": false
+},
+"12n_151": {
+"definite": true,
+"det": 99,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 11,
+"M": 3
+},
+"obstructed": false
+},
+"12n_154": {
+"definite": true,
+"det": 47,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 47,
+"M": 1
+},
+"obstructed": false
+},
+"12n_161": {
+"definite": true,
+"det": 91,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 91,
+"M": 1
+},
+"obstructed": false
+},
+"12n_165": {
+"definite": true,
+"det": 67,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 67,
+"M": 1
+},
+"obstructed": false
+},
+"12n_166": {
+"definite": true,
+"det": 41,
+"flipped": true,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 41,
+"M": 1
+},
+"obstructed": false
+},
+"12n_167": {
+"definite": true,
+"det": 67,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 67,
+"M": 1
+},
+"obstructed": false
+},
+"12n_168": {
+"definite": true,
+"det": 37,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 37,
+"M": 1
+},
+"obstructed": false
+},
+"12n_170": {
+"definite": true,
+"det": 81,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 81,
+"M": 1
+},
+"obstructed": false
+},
+"12n_171": {
+"definite": true,
+"det": 39,
+"flipped": true,
+"rank": 8,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 39,
+"M": 1
+},
+"obstructed": false
+},
+"12n_199": {
+"definite": true,
+"det": 11,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 11,
+"M": 1
+},
+"obstructed": false
+},
+"12n_200": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 9,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"12n_220": {
+"definite": true,
+"det": 21,
+"flipped": true,
+"rank": 6,
+"d_spin": "1",
+"passing": {
+"sign": -1,
+"l": 21,
+"M": 1
+},
+"obstructed": false
+},
+"12n_221": {
+"definite": true,
+"det": 9,
+"flipped": false,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"12n_223": {
+"definite": true,
+"det": 111,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 111,
+"M": 1
+},
+"obstructed": false
+},
+"12n_224": {
+"definite": true,
+"det": 81,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 81,
+"M": 1
+},
+"obstructed": false
+},
+"12n_225": {
+"definite": true,
+"det": 39,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 39,
+"M": 1
+},
+"obstructed": false
+},
+"12n_233": {
+"definite": true,
+"det": 29,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 29,
+"M": 1
+},
+"obstructed": false
+},
+"12n_234": {
+"definite": true,
+"det": 43,
+"flipped": true,
+"rank": 4,
+"d_spin": "-3/2",
+"passing": {
+"sign": -1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"12n_235": {
+"definite": true,
+"det": 13,
+"flipped": true,
+"rank": 9,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 1
+},
+"obstructed": false
+},
+"12n_236": {
+"definite": true,
+"det": 47,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 47,
+"M": 1
+},
+"obstructed": false
+},
+"12n_238": {
+"definite": true,
+"det": 31,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 31,
+"M": 1
+},
+"obstructed": false
+},
+"12n_239": {
+"definite": true,
+"det": 43,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"12n_240": {
+"definite": true,
+"det": 77,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 77,
+"M": 1
+},
+"obstructed": false
+},
+"12n_241": {
+"definite": true,
+"det": 59,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 59,
+"M": 1
+},
+"obstructed": false
+},
+"12n_242": {
+"definite": true,
+"det": 1,
+"flipped": false,
+"rank": 4,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"12n_244": {
+"definite": true,
+"det": 25,
+"flipped": true,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 5
+},
+"obstructed": false
+},
+"12n_248": {
+"definite": true,
+"det": 25,
+"flipped": true,
+"rank": 9,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 25,
+"M": 1
+},
+"obstructed": false
+},
+"12n_250": {
+"definite": true,
+"det": 41,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 41,
+"M": 1
+},
+"obstructed": false
+},
+"12n_251": {
+"definite": true,
+"det": 19,
+"flipped": true,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 19,
+"M": 1
+},
+"obstructed": false
+},
+"12n_272": {
+"definite": true,
+"det": 83,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 83,
+"M": 1
+},
+"obstructed": false
+},
+"12n_273": {
+"definite": true,
+"det": 5,
+"flipped": false,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 1
+},
+"obstructed": false
+},
+"12n_274": {
+"definite": true,
+"det": 55,
+"flipped": false,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 55,
+"M": 1
+},
+"obstructed": false
+},
+"12n_277": {
+"definite": true,
+"det": 67,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 67,
+"M": 1
+},
+"obstructed": false
+},
+"12n_278": {
+"definite": true,
+"det": 65,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 65,
+"M": 1
+},
+"obstructed": false
+},
+"12n_288": {
+"definite": true,
+"det": 49,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 49,
+"M": 1
+},
+"obstructed": false
+},
+"12n_294": {
+"definite": true,
+"det": 45,
+"flipped": true,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 45,
+"M": 1
+},
+"obstructed": false
+},
+"12n_295": {
+"definite": true,
+"det": 107,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 107,
+"M": 1
+},
+"obstructed": false
+},
+"12n_296": {
+"definite": true,
+"det": 37,
+"flipped": false,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 37,
+"M": 1
+},
+"obstructed": false
+},
+"12n_297": {
+"definite": true,
+"det": 95,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 95,
+"M": 1
+},
+"obstructed": false
+},
+"12n_301": {
+"definite": true,
+"det": 67,
+"flipped": false,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 67,
+"M": 1
+},
+"obstructed": false
+},
+"12n_304": {
+"definite": true,
+"det": 71,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 71,
+"M": 1
+},
+"obstructed": false
+},
+"12n_308": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": -1,
+"l": 63,
+"M": 1
+},
+"obstructed": false
+},
+"12n_309": {
+"definite": true,
+"det": 1,
+"flipped": false,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"12n_322": {
+"definite": true,
+"det": 23,
+"flipped": false,
+"rank": 8,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 23,
+"M": 1
+},
+"obstructed": false
+},
+"12n_334": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 7,
+"M": 3
+},
+"obstructed": false
+},
+"12n_337": {
+"definite": true,
+"det": 103,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 103,
+"M": 1
+},
+"obstructed": false
+},
+"12n_338": {
+"definite": true,
+"det": 25,
+"flipped": false,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 25,
+"M": 1
+},
+"obstructed": false
+},
+"12n_339": {
+"definite": true,
+"det": 95,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 95,
+"M": 1
+},
+"obstructed": false
+},
+"12n_340": {
+"definite": true,
+"det": 17,
+"flipped": true,
+"rank": 8,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 17,
+"M": 1
+},
+"obstructed": false
+},
+"12n_341": {
+"definite": true,
+"det": 67,
+"flipped": false,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 67,
+"M": 1
+},
+"obstructed": false
+},
+"12n_343": {
+"definite": true,
+"det": 59,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 59,
+"M": 1
+},
+"obstructed": false
+},
+"12n_347": {
+"definite": true,
+"det": 31,
+"flipped": false,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 31,
+"M": 1
+},
+"obstructed": false
+},
+"12n_379": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 7,
+"M": 3
+},
+"obstructed": false
+},
+"12n_38": {
+"definite": true,
+"det": 67,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 67,
+"M": 1
+},
+"obstructed": false
+},
+"12n_380": {
+"definite": true,
+"det": 81,
+"flipped": true,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 9
+},
+"obstructed": false
+},
+"12n_386": {
+"definite": true,
+"det": 9,
+"flipped": false,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"12n_387": {
+"definite": true,
+"det": 27,
+"flipped": false,
+"rank": 8,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 3
+},
+"obstructed": false
+},
+"12n_389": {
+"definite": true,
+"det": 99,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 11,
+"M": 3
+},
+"obstructed": false
+},
+"12n_40": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 63,
+"M": 1
+},
+"obstructed": false
+},
+"12n_404": {
+"definite": true,
+"det": 3,
+"flipped": false,
+"rank": 9,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 1
+},
+"obstructed": false
+},
+"12n_42": {
+"definite": true,
+"det": 59,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 59,
+"M": 1
+},
+"obstructed": false
+},
+"12n_43": {
+"definite": true,
+"det": 81,
+"flipped": true,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 9
+},
+"obstructed": false
+},
+"12n_44": {
+"definite": true,
+"det": 51,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 51,
+"M": 1
+},
+"obstructed": false
+},
+"12n_447": {
+"definite": true,
+"det": 73,
+"flipped": true,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 73,
+"M": 1
+},
+"obstructed": false
+},
+"12n_457": {
+"definite": true,
+"det": 11,
+"flipped": true,
+"rank": 5,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 11,
+"M": 1
+},
+"obstructed": false
+},
+"12n_46": {
+"definite": true,
+"det": 41,
+"flipped": true,
+"rank": 8,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 41,
+"M": 1
+},
+"obstructed": false
+},
+"12n_466": {
+"definite": true,
+"det": 53,
+"flipped": false,
+"rank": 5,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 53,
+"M": 1
+},
+"obstructed": false
+},
+"12n_467": {
+"definite": true,
+"det": 43,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"12n_469": {
+"definite": true,
+"det": 55,
+"flipped": false,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 55,
+"M": 1
+},
+"obstructed": false
+},
+"12n_470": {
+"definite": true,
+"det": 41,
+"flipped": true,
+"rank": 8,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 41,
+"M": 1
+},
+"obstructed": false
+},
+"12n_471": {
+"definite": true,
+"det": 71,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 71,
+"M": 1
+},
+"obstructed": false
+},
+"12n_473": {
+"definite": true,
+"det": 1,
+"flipped": false,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"12n_474": {
+"definite": true,
+"det": 17,
+"flipped": false,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 17,
+"M": 1
+},
+"obstructed": false
+},
+"12n_475": {
+"definite": true,
+"det": 7,
+"flipped": true,
+"rank": 9,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 7,
+"M": 1
+},
+"obstructed": false
+},
+"12n_477": {
+"definite": true,
+"det": 43,
+"flipped": false,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"12n_479": {
+"definite": true,
+"det": 83,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 83,
+"M": 1
+},
+"obstructed": false
+},
+"12n_48": {
+"definite": true,
+"det": 49,
+"flipped": true,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 7
+},
+"obstructed": false
+},
+"12n_497": {
+"definite": true,
+"det": 105,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 105,
+"M": 1
+},
+"obstructed": false
+},
+"12n_500": {
+"definite": true,
+"det": 51,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 51,
+"M": 1
+},
+"obstructed": false
+},
+"12n_501": {
+"definite": true,
+"det": 49,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 49,
+"M": 1
+},
+"obstructed": false
+},
+"12n_502": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"12n_522": {
+"definite": true,
+"det": 23,
+"flipped": false,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 23,
+"M": 1
+},
+"obstructed": false
+},
+"12n_54": {
+"definite": true,
+"det": 29,
+"flipped": true,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 29,
+"M": 1
+},
+"obstructed": false
+},
+"12n_55": {
+"definite": true,
+"det": 111,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 111,
+"M": 1
+},
+"obstructed": false
+},
+"12n_553": {
+"definite": true,
+"det": 81,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 3
+},
+"obstructed": false
+},
+"12n_556": {
+"definite": true,
+"det": 81,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 3
+},
+"obstructed": false
+},
+"12n_559": {
+"definite": true,
+"det": 53,
+"flipped": false,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 53,
+"M": 1
+},
+"obstructed": false
+},
+"12n_56": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"12n_561": {
+"definite": true,
+"det": 55,
+"flipped": false,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 55,
+"M": 1
+},
+"obstructed": false
+},
+"12n_562": {
+"definite": true,
+"det": 35,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 35,
+"M": 1
+},
+"obstructed": false
+},
+"12n_565": {
+"definite": true,
+"det": 45,
+"flipped": true,
+"rank": 8,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 3
+},
+"obstructed": false
+},
+"12n_566": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 7,
+"M": 3
+},
+"obstructed": false
+},
+"12n_57": {
+"definite": true,
+"det": 9,
+"flipped": false,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"12n_570": {
+"definite": true,
+"det": 45,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 3
+},
+"obstructed": false
+},
+"12n_572": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 7,
+"M": 3
+},
+"obstructed": false
+},
+"12n_573": {
+"definite": true,
+"det": 57,
+"flipped": true,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": -1,
+"l": 57,
+"M": 1
+},
+"obstructed": false
+},
+"12n_574": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 4,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"12n_575": {
+"definite": true,
+"det": 3,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 3,
+"M": 1
+},
+"obstructed": false
+},
+"12n_576": {
+"definite": true,
+"det": 33,
+"flipped": false,
+"rank": 8,
+"d_spin": "2",
+"passing": {
+"sign": -1,
+"l": 33,
+"M": 1
+},
+"obstructed": false
+},
+"12n_577": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 7,
+"d_spin": "-1/2",
+"passing": {
+"sign": 1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"12n_581": {
+"definite": true,
+"det": 27,
+"flipped": false,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 3
+},
+"obstructed": false
+},
+"12n_582": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 9,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"12n_583": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 4,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 7,
+"M": 3
+},
+"obstructed": false
+},
+"12n_59": {
+"definite": true,
+"det": 21,
+"flipped": true,
+"rank": 6,
+"d_spin": "1",
+"passing": {
+"sign": -1,
+"l": 21,
+"M": 1
+},
+"obstructed": false
+},
+"12n_60": {
+"definite": true,
+"det": 99,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 11,
+"M": 3
+},
+"obstructed": false
+},
+"12n_61": {
+"definite": true,
+"det": 99,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 11,
+"M": 3
+},
+"obstructed": false
+},
+"12n_62": {
+"definite": true,
+"det": 81,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 81,
+"M": 1
+},
+"obstructed": false
+},
+"12n_63": {
+"definite": true,
+"det": 39,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 39,
+"M": 1
+},
+"obstructed": false
+},
+"12n_65": {
+"definite": true,
+"det": 31,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 31,
+"M": 1
+},
+"obstructed": false
+},
+"12n_66": {
+"definite": true,
+"det": 81,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 81,
+"M": 1
+},
+"obstructed": false
+},
+"12n_721": {
+"definite": true,
+"det": 25,
+"flipped": true,
+"rank": 7,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 5
+},
+"obstructed": false
+},
+"12n_723": {
+"definite": true,
+"det": 19,
+"flipped": true,
+"rank": 9,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 19,
+"M": 1
+},
+"obstructed": false
+},
+"12n_724": {
+"definite": true,
+"det": 61,
+"flipped": true,
+"rank": 6,
+"d_spin": "-1",
+"passing": {
+"sign": 1,
+"l": 61,
+"M": 1
+},
+"obstructed": false
+},
+"12n_726": {
+"definite": true,
+"det": 63,
+"flipped": true,
+"rank": 8,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 63,
+"M": 1
+},
+"obstructed": false
+},
+"12n_77": {
+"definite": true,
+"det": 43,
+"flipped": true,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"12n_78": {
+"definite": true,
+"det": 65,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 65,
+"M": 1
+},
+"obstructed": false
+},
+"8_19": {
+"definite": true,
+"det": 3,
+"flipped": true,
+"rank": 6,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 1
+},
+"obstructed": false
+},
+"8_20": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"9_42": {
+"definite": true,
+"det": 7,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 7,
+"M": 1
+},
+"obstructed": false
+},
+"9_43": {
+"definite": true,
+"det": 13,
+"flipped": true,
+"rank": 6,
+"d_spin": "1",
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 1
+},
+"obstructed": false
+},
+"9_44": {
+"definite": true,
+"det": 17,
+"flipped": true,
+"rank": 5,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 17,
+"M": 1
+},
+"obstructed": false
+},
+"9_45": {
+"definite": true,
+"det": 23,
+"flipped": true,
+"rank": 5,
+"d_spin": "-1/2",
+"passing": {
+"sign": -1,
+"l": 23,
+"M": 1
+},
+"obstructed": false
+},
+"9_46": {
+"definite": true,
+"det": 9,
+"flipped": true,
+"rank": 6,
+"d_spin": "0",
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"9_48": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 4,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 3,
+"M": 3
+},
+"obstructed": false
+}
+}

@@ -1,0 +1,1542 @@
+{
+"11n_137": {
+"bad": 1,
+"det": 57,
+"passing": null,
+"obstructed": true
+},
+"11n_141": {
+"bad": 1,
+"det": 21,
+"passing": null,
+"obstructed": true
+},
+"11n_23": {
+"bad": 1,
+"det": 29,
+"passing": {
+"sign": 1,
+"l": 29,
+"M": 1
+},
+"obstructed": false
+},
+"11n_30": {
+"bad": 1,
+"det": 33,
+"passing": null,
+"obstructed": true
+},
+"12n_307": {
+"bad": 1,
+"det": 77,
+"passing": null,
+"obstructed": true
+},
+"12n_309": {
+"bad": 1,
+"det": 1,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"12n_184": {
+"bad": 2,
+"det": 43,
+"passing": {
+"sign": -1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"12n_195": {
+"bad": 2,
+"det": 19,
+"passing": {
+"sign": -1,
+"l": 19,
+"M": 1
+},
+"obstructed": false
+},
+"12n_236": {
+"bad": 1,
+"det": 47,
+"passing": {
+"sign": -1,
+"l": 47,
+"M": 1
+},
+"obstructed": false
+},
+"12n_239": {
+"bad": 1,
+"det": 43,
+"passing": {
+"sign": 1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"12n_294": {
+"bad": 1,
+"det": 45,
+"passing": {
+"sign": 1,
+"l": 45,
+"M": 1
+},
+"obstructed": false
+},
+"12n_304": {
+"bad": 1,
+"det": 71,
+"passing": {
+"sign": -1,
+"l": 71,
+"M": 1
+},
+"obstructed": false
+},
+"12n_233": {
+"bad": 1,
+"det": 29,
+"passing": {
+"sign": 1,
+"l": 29,
+"M": 1
+},
+"obstructed": false
+},
+"12n_235": {
+"bad": 1,
+"det": 13,
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 1
+},
+"obstructed": false
+},
+"12n_721": {
+"bad": 1,
+"det": 25,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 5
+},
+"obstructed": false
+},
+"12n_75": {
+"bad": 1,
+"det": 83,
+"passing": {
+"sign": -1,
+"l": 83,
+"M": 1
+},
+"obstructed": false
+},
+"11n_78": {
+"bad": 1,
+"det": 45,
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 3
+},
+"obstructed": false
+},
+"12n_167": {
+"bad": 1,
+"det": 67,
+"passing": {
+"sign": -1,
+"l": 67,
+"M": 1
+},
+"obstructed": false
+},
+"12n_346": {
+"bad": 2,
+"det": 13,
+"passing": null,
+"obstructed": true
+},
+"12n_404": {
+"bad": 1,
+"det": 3,
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 1
+},
+"obstructed": false
+},
+"12n_51": {
+"bad": 2,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"12n_522": {
+"bad": 1,
+"det": 23,
+"passing": {
+"sign": -1,
+"l": 23,
+"M": 1
+},
+"obstructed": false
+},
+"12n_8": {
+"bad": 1,
+"det": 61,
+"passing": {
+"sign": 1,
+"l": 61,
+"M": 1
+},
+"obstructed": false
+},
+"12n_82": {
+"bad": 2,
+"det": 35,
+"passing": null,
+"obstructed": true
+},
+"13n_1061": {
+"bad": 1,
+"det": 195,
+"passing": {
+"sign": 1,
+"l": 195,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1062": {
+"bad": 1,
+"det": 27,
+"passing": {
+"sign": -1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1063": {
+"bad": 1,
+"det": 153,
+"passing": null,
+"obstructed": true
+},
+"13n_107": {
+"bad": 1,
+"det": 77,
+"passing": {
+"sign": 1,
+"l": 77,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1058": {
+"bad": 1,
+"det": 153,
+"passing": null,
+"obstructed": true
+},
+"13n_1059": {
+"bad": 1,
+"det": 27,
+"passing": {
+"sign": -1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"12n_248": {
+"bad": 1,
+"det": 25,
+"passing": {
+"sign": 1,
+"l": 25,
+"M": 1
+},
+"obstructed": false
+},
+"12n_260": {
+"bad": 1,
+"det": 21,
+"passing": null,
+"obstructed": true
+},
+"13n_1002": {
+"bad": 1,
+"det": 43,
+"passing": null,
+"obstructed": true
+},
+"13n_1021": {
+"bad": 1,
+"det": 7,
+"passing": {
+"sign": 1,
+"l": 7,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1134": {
+"bad": 1,
+"det": 11,
+"passing": null,
+"obstructed": true
+},
+"13n_1149": {
+"bad": 1,
+"det": 77,
+"passing": {
+"sign": -1,
+"l": 77,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1083": {
+"bad": 1,
+"det": 69,
+"passing": null,
+"obstructed": true
+},
+"13n_11": {
+"bad": 1,
+"det": 93,
+"passing": {
+"sign": -1,
+"l": 93,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1106": {
+"bad": 1,
+"det": 57,
+"passing": null,
+"obstructed": true
+},
+"13n_1133": {
+"bad": 1,
+"det": 15,
+"passing": null,
+"obstructed": true
+},
+"13n_1194": {
+"bad": 1,
+"det": 81,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 9
+},
+"obstructed": false
+},
+"13n_1198": {
+"bad": 1,
+"det": 81,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 9
+},
+"obstructed": false
+},
+"13n_1236": {
+"bad": 2,
+"det": 35,
+"passing": null,
+"obstructed": true
+},
+"13n_1238": {
+"bad": 1,
+"det": 33,
+"passing": null,
+"obstructed": true
+},
+"13n_1160": {
+"bad": 1,
+"det": 53,
+"passing": {
+"sign": 1,
+"l": 53,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1187": {
+"bad": 1,
+"det": 41,
+"passing": null,
+"obstructed": true
+},
+"13n_125": {
+"bad": 2,
+"det": 59,
+"passing": {
+"sign": -1,
+"l": 59,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1280": {
+"bad": 1,
+"det": 117,
+"passing": {
+"sign": 1,
+"l": 117,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1305": {
+"bad": 1,
+"det": 117,
+"passing": {
+"sign": 1,
+"l": 117,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1310": {
+"bad": 1,
+"det": 117,
+"passing": {
+"sign": 1,
+"l": 117,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1286": {
+"bad": 1,
+"det": 33,
+"passing": {
+"sign": 1,
+"l": 33,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1287": {
+"bad": 1,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1284": {
+"bad": 1,
+"det": 93,
+"passing": null,
+"obstructed": true
+},
+"13n_1285": {
+"bad": 1,
+"det": 135,
+"passing": {
+"sign": -1,
+"l": 15,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1313": {
+"bad": 1,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1314": {
+"bad": 1,
+"det": 33,
+"passing": {
+"sign": 1,
+"l": 33,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1295": {
+"bad": 1,
+"det": 117,
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1298": {
+"bad": 1,
+"det": 37,
+"passing": {
+"sign": 1,
+"l": 37,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1311": {
+"bad": 1,
+"det": 93,
+"passing": null,
+"obstructed": true
+},
+"13n_1312": {
+"bad": 1,
+"det": 135,
+"passing": {
+"sign": -1,
+"l": 15,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1322": {
+"bad": 1,
+"det": 117,
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1324": {
+"bad": 1,
+"det": 117,
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1226": {
+"bad": 2,
+"det": 7,
+"passing": {
+"sign": 1,
+"l": 7,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1231": {
+"bad": 2,
+"det": 29,
+"passing": null,
+"obstructed": true
+},
+"13n_1316": {
+"bad": 1,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1317": {
+"bad": 1,
+"det": 135,
+"passing": {
+"sign": -1,
+"l": 15,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1290": {
+"bad": 1,
+"det": 87,
+"passing": null,
+"obstructed": true
+},
+"13n_1293": {
+"bad": 1,
+"det": 93,
+"passing": {
+"sign": 1,
+"l": 93,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1354": {
+"bad": 1,
+"det": 35,
+"passing": null,
+"obstructed": true
+},
+"13n_1415": {
+"bad": 1,
+"det": 89,
+"passing": null,
+"obstructed": true
+},
+"13n_1420": {
+"bad": 1,
+"det": 83,
+"passing": {
+"sign": 1,
+"l": 83,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1421": {
+"bad": 1,
+"det": 57,
+"passing": null,
+"obstructed": true
+},
+"13n_1552": {
+"bad": 2,
+"det": 93,
+"passing": null,
+"obstructed": true
+},
+"13n_1576": {
+"bad": 2,
+"det": 3,
+"passing": null,
+"obstructed": true
+},
+"13n_1333": {
+"bad": 1,
+"det": 87,
+"passing": null,
+"obstructed": true
+},
+"13n_1334": {
+"bad": 1,
+"det": 93,
+"passing": {
+"sign": 1,
+"l": 93,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1205": {
+"bad": 1,
+"det": 57,
+"passing": null,
+"obstructed": true
+},
+"13n_1207": {
+"bad": 1,
+"det": 29,
+"passing": {
+"sign": 1,
+"l": 29,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1491": {
+"bad": 1,
+"det": 125,
+"passing": {
+"sign": 1,
+"l": 125,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1496": {
+"bad": 1,
+"det": 1,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1429": {
+"bad": 1,
+"det": 63,
+"passing": {
+"sign": -1,
+"l": 63,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1435": {
+"bad": 1,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"13n_162": {
+"bad": 1,
+"det": 5,
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1749": {
+"bad": 1,
+"det": 127,
+"passing": {
+"sign": 1,
+"l": 127,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1582": {
+"bad": 1,
+"det": 83,
+"passing": {
+"sign": -1,
+"l": 83,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1588": {
+"bad": 1,
+"det": 23,
+"passing": {
+"sign": 1,
+"l": 23,
+"M": 1
+},
+"obstructed": false
+},
+"13n_2064": {
+"bad": 1,
+"det": 107,
+"passing": {
+"sign": 1,
+"l": 107,
+"M": 1
+},
+"obstructed": false
+},
+"13n_2065": {
+"bad": 1,
+"det": 89,
+"passing": null,
+"obstructed": true
+},
+"13n_1600": {
+"bad": 1,
+"det": 93,
+"passing": {
+"sign": 1,
+"l": 93,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1618": {
+"bad": 2,
+"det": 11,
+"passing": null,
+"obstructed": true
+},
+"13n_158": {
+"bad": 2,
+"det": 1,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"13n_1581": {
+"bad": 1,
+"det": 97,
+"passing": null,
+"obstructed": true
+},
+"13n_2066": {
+"bad": 1,
+"det": 7,
+"passing": {
+"sign": -1,
+"l": 7,
+"M": 1
+},
+"obstructed": false
+},
+"13n_2131": {
+"bad": 1,
+"det": 85,
+"passing": null,
+"obstructed": true
+},
+"13n_2276": {
+"bad": 2,
+"det": 19,
+"passing": null,
+"obstructed": true
+},
+"13n_2296": {
+"bad": 1,
+"det": 21,
+"passing": null,
+"obstructed": true
+},
+"13n_254": {
+"bad": 1,
+"det": 55,
+"passing": null,
+"obstructed": true
+},
+"13n_2559": {
+"bad": 1,
+"det": 47,
+"passing": {
+"sign": 1,
+"l": 47,
+"M": 1
+},
+"obstructed": false
+},
+"13n_222": {
+"bad": 1,
+"det": 137,
+"passing": null,
+"obstructed": true
+},
+"13n_2271": {
+"bad": 1,
+"det": 7,
+"passing": null,
+"obstructed": true
+},
+"13n_2566": {
+"bad": 1,
+"det": 13,
+"passing": {
+"sign": 1,
+"l": 13,
+"M": 1
+},
+"obstructed": false
+},
+"13n_2580": {
+"bad": 1,
+"det": 45,
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 3
+},
+"obstructed": false
+},
+"13n_2300": {
+"bad": 1,
+"det": 1,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"13n_2393": {
+"bad": 1,
+"det": 29,
+"passing": {
+"sign": 1,
+"l": 29,
+"M": 1
+},
+"obstructed": false
+},
+"13n_274": {
+"bad": 1,
+"det": 89,
+"passing": null,
+"obstructed": true
+},
+"13n_2904": {
+"bad": 1,
+"det": 165,
+"passing": {
+"sign": -1,
+"l": 165,
+"M": 1
+},
+"obstructed": false
+},
+"13n_175": {
+"bad": 1,
+"det": 5,
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 1
+},
+"obstructed": false
+},
+"13n_197": {
+"bad": 1,
+"det": 75,
+"passing": {
+"sign": 1,
+"l": 75,
+"M": 1
+},
+"obstructed": false
+},
+"13n_2950": {
+"bad": 2,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"13n_2951": {
+"bad": 1,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"13n_1975": {
+"bad": 1,
+"det": 45,
+"passing": {
+"sign": 1,
+"l": 45,
+"M": 1
+},
+"obstructed": false
+},
+"13n_199": {
+"bad": 1,
+"det": 71,
+"passing": null,
+"obstructed": true
+},
+"13n_2933": {
+"bad": 1,
+"det": 99,
+"passing": {
+"sign": 1,
+"l": 11,
+"M": 3
+},
+"obstructed": false
+},
+"13n_2935": {
+"bad": 1,
+"det": 81,
+"passing": null,
+"obstructed": true
+},
+"13n_2638": {
+"bad": 1,
+"det": 31,
+"passing": {
+"sign": 1,
+"l": 31,
+"M": 1
+},
+"obstructed": false
+},
+"13n_265": {
+"bad": 1,
+"det": 85,
+"passing": null,
+"obstructed": true
+},
+"13n_247": {
+"bad": 1,
+"det": 41,
+"passing": null,
+"obstructed": true
+},
+"13n_251": {
+"bad": 1,
+"det": 85,
+"passing": {
+"sign": 1,
+"l": 85,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3163": {
+"bad": 1,
+"det": 19,
+"passing": {
+"sign": -1,
+"l": 19,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3196": {
+"bad": 1,
+"det": 77,
+"passing": {
+"sign": 1,
+"l": 77,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3144": {
+"bad": 1,
+"det": 59,
+"passing": {
+"sign": 1,
+"l": 59,
+"M": 1
+},
+"obstructed": false
+},
+"13n_315": {
+"bad": 2,
+"det": 53,
+"passing": null,
+"obstructed": true
+},
+"13n_2657": {
+"bad": 1,
+"det": 81,
+"passing": null,
+"obstructed": true
+},
+"13n_2721": {
+"bad": 1,
+"det": 45,
+"passing": {
+"sign": 1,
+"l": 5,
+"M": 3
+},
+"obstructed": false
+},
+"13n_2956": {
+"bad": 1,
+"det": 99,
+"passing": {
+"sign": 1,
+"l": 11,
+"M": 3
+},
+"obstructed": false
+},
+"13n_2965": {
+"bad": 1,
+"det": 57,
+"passing": {
+"sign": 1,
+"l": 57,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3594": {
+"bad": 1,
+"det": 25,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 5
+},
+"obstructed": false
+},
+"13n_3595": {
+"bad": 1,
+"det": 95,
+"passing": null,
+"obstructed": true
+},
+"13n_260": {
+"bad": 1,
+"det": 61,
+"passing": {
+"sign": 1,
+"l": 61,
+"M": 1
+},
+"obstructed": false
+},
+"13n_2605": {
+"bad": 1,
+"det": 45,
+"passing": {
+"sign": 1,
+"l": 45,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3060": {
+"bad": 1,
+"det": 57,
+"passing": null,
+"obstructed": true
+},
+"13n_309": {
+"bad": 2,
+"det": 15,
+"passing": {
+"sign": 1,
+"l": 15,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3004": {
+"bad": 1,
+"det": 45,
+"passing": null,
+"obstructed": true
+},
+"13n_3005": {
+"bad": 1,
+"det": 153,
+"passing": null,
+"obstructed": true
+},
+"13n_445": {
+"bad": 2,
+"det": 11,
+"passing": {
+"sign": 1,
+"l": 11,
+"M": 1
+},
+"obstructed": false
+},
+"13n_449": {
+"bad": 2,
+"det": 81,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 9
+},
+"obstructed": false
+},
+"13n_3505": {
+"bad": 1,
+"det": 81,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 9
+},
+"obstructed": false
+},
+"13n_3514": {
+"bad": 1,
+"det": 51,
+"passing": {
+"sign": -1,
+"l": 51,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3516": {
+"bad": 1,
+"det": 27,
+"passing": {
+"sign": 1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3518": {
+"bad": 1,
+"det": 9,
+"passing": null,
+"obstructed": true
+},
+"13n_3521": {
+"bad": 1,
+"det": 33,
+"passing": {
+"sign": -1,
+"l": 33,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3547": {
+"bad": 1,
+"det": 11,
+"passing": null,
+"obstructed": true
+},
+"13n_3993": {
+"bad": 1,
+"det": 37,
+"passing": {
+"sign": 1,
+"l": 37,
+"M": 1
+},
+"obstructed": false
+},
+"13n_400": {
+"bad": 2,
+"det": 25,
+"passing": {
+"sign": 1,
+"l": 25,
+"M": 1
+},
+"obstructed": false
+},
+"13n_412": {
+"bad": 2,
+"det": 1,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"13n_440": {
+"bad": 2,
+"det": 81,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 9
+},
+"obstructed": false
+},
+"13n_46": {
+"bad": 2,
+"det": 43,
+"passing": {
+"sign": 1,
+"l": 43,
+"M": 1
+},
+"obstructed": false
+},
+"13n_5": {
+"bad": 1,
+"det": 109,
+"passing": {
+"sign": 1,
+"l": 109,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3501": {
+"bad": 1,
+"det": 21,
+"passing": {
+"sign": 1,
+"l": 21,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3503": {
+"bad": 1,
+"det": 39,
+"passing": {
+"sign": 1,
+"l": 39,
+"M": 1
+},
+"obstructed": false
+},
+"13n_3596": {
+"bad": 1,
+"det": 5,
+"passing": null,
+"obstructed": true
+},
+"13n_396": {
+"bad": 2,
+"det": 5,
+"passing": null,
+"obstructed": true
+},
+"13n_670": {
+"bad": 1,
+"det": 73,
+"passing": null,
+"obstructed": true
+},
+"13n_675": {
+"bad": 1,
+"det": 97,
+"passing": null,
+"obstructed": true
+},
+"13n_594": {
+"bad": 1,
+"det": 87,
+"passing": null,
+"obstructed": true
+},
+"13n_611": {
+"bad": 2,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"13n_676": {
+"bad": 1,
+"det": 53,
+"passing": {
+"sign": 1,
+"l": 53,
+"M": 1
+},
+"obstructed": false
+},
+"13n_683": {
+"bad": 1,
+"det": 71,
+"passing": {
+"sign": 1,
+"l": 71,
+"M": 1
+},
+"obstructed": false
+},
+"13n_612": {
+"bad": 2,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 3
+},
+"obstructed": false
+},
+"13n_628": {
+"bad": 2,
+"det": 3,
+"passing": null,
+"obstructed": true
+},
+"13n_572": {
+"bad": 1,
+"det": 9,
+"passing": {
+"sign": 1,
+"l": 9,
+"M": 1
+},
+"obstructed": false
+},
+"13n_574": {
+"bad": 1,
+"det": 39,
+"passing": null,
+"obstructed": true
+},
+"13n_509": {
+"bad": 2,
+"det": 15,
+"passing": {
+"sign": 1,
+"l": 15,
+"M": 1
+},
+"obstructed": false
+},
+"13n_560": {
+"bad": 1,
+"det": 27,
+"passing": null,
+"obstructed": true
+},
+"13n_932": {
+"bad": 1,
+"det": 195,
+"passing": {
+"sign": 1,
+"l": 195,
+"M": 1
+},
+"obstructed": false
+},
+"13n_968": {
+"bad": 1,
+"det": 69,
+"passing": null,
+"obstructed": true
+},
+"13n_567": {
+"bad": 1,
+"det": 31,
+"passing": {
+"sign": 1,
+"l": 31,
+"M": 1
+},
+"obstructed": false
+},
+"13n_571": {
+"bad": 1,
+"det": 5,
+"passing": null,
+"obstructed": true
+},
+"13n_929": {
+"bad": 1,
+"det": 153,
+"passing": null,
+"obstructed": true
+},
+"13n_931": {
+"bad": 1,
+"det": 27,
+"passing": {
+"sign": -1,
+"l": 27,
+"M": 1
+},
+"obstructed": false
+},
+"13n_761": {
+"bad": 2,
+"det": 69,
+"passing": null,
+"obstructed": true
+},
+"13n_860": {
+"bad": 2,
+"det": 77,
+"passing": null,
+"obstructed": true
+},
+"13n_701": {
+"bad": 1,
+"det": 61,
+"passing": {
+"sign": 1,
+"l": 61,
+"M": 1
+},
+"obstructed": false
+},
+"13n_751": {
+"bad": 2,
+"det": 25,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 5
+},
+"obstructed": false
+},
+"13n_577": {
+"bad": 1,
+"det": 1,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 1
+},
+"obstructed": false
+},
+"13n_586": {
+"bad": 2,
+"det": 15,
+"passing": {
+"sign": 1,
+"l": 15,
+"M": 1
+},
+"obstructed": false
+},
+"13n_690": {
+"bad": 1,
+"det": 29,
+"passing": {
+"sign": 1,
+"l": 29,
+"M": 1
+},
+"obstructed": false
+},
+"13n_691": {
+"bad": 1,
+"det": 73,
+"passing": null,
+"obstructed": true
+},
+"13n_979": {
+"bad": 2,
+"det": 81,
+"passing": {
+"sign": 1,
+"l": 1,
+"M": 9
+},
+"obstructed": false
+},
+"13n_983": {
+"bad": 1,
+"det": 57,
+"passing": null,
+"obstructed": true
+}
+}

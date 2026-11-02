@@ -1,0 +1,215 @@
+{
+"11n_38": {
+"definite": true,
+"det": 3,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": null,
+"obstructed": true
+},
+"11n_57": {
+"definite": true,
+"det": 7,
+"flipped": true,
+"rank": 8,
+"d_spin": "3/2",
+"passing": null,
+"obstructed": true
+},
+"12n_147": {
+"definite": true,
+"det": 75,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 3,
+"M": 5
+},
+"obstructed": false
+},
+"12n_163": {
+"definite": true,
+"det": 47,
+"flipped": true,
+"rank": 8,
+"d_spin": "3/2",
+"passing": null,
+"obstructed": true
+},
+"12n_172": {
+"definite": true,
+"det": 23,
+"flipped": true,
+"rank": 8,
+"d_spin": "3/2",
+"passing": null,
+"obstructed": true
+},
+"12n_198": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": null,
+"obstructed": true
+},
+"12n_219": {
+"definite": true,
+"det": 99,
+"flipped": true,
+"rank": 7,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 11,
+"M": 3
+},
+"obstructed": false
+},
+"12n_249": {
+"definite": true,
+"det": 47,
+"flipped": true,
+"rank": 8,
+"d_spin": "-1/2",
+"passing": null,
+"obstructed": true
+},
+"12n_25": {
+"definite": true,
+"det": 11,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": null,
+"obstructed": true
+},
+"12n_261": {
+"definite": true,
+"det": 69,
+"flipped": true,
+"rank": 8,
+"d_spin": "1",
+"passing": null,
+"obstructed": true
+},
+"12n_293": {
+"definite": true,
+"det": 7,
+"flipped": true,
+"rank": 8,
+"d_spin": "3/2",
+"passing": null,
+"obstructed": true
+},
+"12n_41": {
+"definite": true,
+"det": 19,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": null,
+"obstructed": true
+},
+"12n_444": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 3,
+"M": 3
+},
+"obstructed": false
+},
+"12n_47": {
+"definite": true,
+"det": 59,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": null,
+"obstructed": true
+},
+"12n_550": {
+"definite": true,
+"det": 33,
+"flipped": false,
+"rank": 8,
+"d_spin": "0",
+"passing": null,
+"obstructed": true
+},
+"12n_554": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 6,
+"d_spin": "1/2",
+"passing": {
+"sign": -1,
+"l": 3,
+"M": 3
+},
+"obstructed": false
+},
+"12n_555": {
+"definite": true,
+"det": 135,
+"flipped": true,
+"rank": 5,
+"d_spin": "1/2",
+"passing": {
+"sign": 1,
+"l": 15,
+"M": 3
+},
+"obstructed": false
+},
+"12n_571": {
+"definite": true,
+"det": 27,
+"flipped": true,
+"rank": 8,
+"d_spin": "1/2",
+"passing": null,
+"obstructed": true
+},
+"12n_64": {
+"definite": true,
+"det": 69,
+"flipped": true,
+"rank": 8,
+"d_spin": "1",
+"passing": null,
+"obstructed": true
+},
+"12n_642": {
+"definite": true,
+"det": 27,
+"flipped": false,
+"rank": 9,
+"d_spin": "3/2",
+"passing": {
+"sign": 1,
+"l": 3,
+"M": 3
+},
+"obstructed": false
+},
+"12n_79": {
+"definite": true,
+"det": 23,
+"flipped": true,
+"rank": 8,
+"d_spin": "-1/2",
+"passing": null,
+"obstructed": true
+}
+}

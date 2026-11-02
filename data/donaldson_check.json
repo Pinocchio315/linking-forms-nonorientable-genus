@@ -1,0 +1,1705 @@
+{
+ "meta": {
+  "convention_check": {
+   "matrices": [
+    [
+     [
+      3
+     ]
+    ],
+    [
+     [
+      -2,
+      1
+     ],
+     [
+      1,
+      -2
+     ]
+    ]
+   ],
+   "sigma_3_1": -2,
+   "ok": true
+  },
+  "seconds": 2,
+  "versions": {
+   "snappy": "3.3.2",
+   "cypari": "2.5.6"
+  }
+ },
+ "summary": {
+  "certificates": 64,
+  "passes": [
+   "13n_1000",
+   "13n_1042",
+   "13n_1234",
+   "13n_1346",
+   "13n_1469",
+   "13n_1553",
+   "13n_1621",
+   "13n_2222",
+   "13n_2465",
+   "13n_2486",
+   "13n_2510",
+   "13n_2626",
+   "13n_2632",
+   "13n_2683",
+   "13n_2732",
+   "13n_3089",
+   "13n_3093",
+   "13n_3133",
+   "13n_3224",
+   "13n_3232",
+   "13n_3252",
+   "13n_3283",
+   "13n_3303",
+   "13n_3309",
+   "13n_3330",
+   "13n_3388",
+   "13n_3439",
+   "13n_3587",
+   "13n_3597",
+   "13n_3599",
+   "13n_3603",
+   "13n_3613",
+   "13n_3616",
+   "13n_3720",
+   "13n_3732",
+   "13n_3794",
+   "13n_3884",
+   "13n_401",
+   "13n_4013",
+   "13n_4292",
+   "13n_4307",
+   "13n_446",
+   "13n_460",
+   "13n_4698",
+   "13n_479",
+   "13n_4798",
+   "13n_4817",
+   "13n_4823",
+   "13n_488",
+   "13n_4919",
+   "13n_4955",
+   "13n_5035",
+   "13n_537",
+   "13n_582",
+   "13n_652",
+   "13n_694",
+   "13n_704",
+   "13n_780",
+   "13n_846",
+   "13n_899",
+   "13n_926",
+   "13n_946",
+   "13n_969",
+   "13n_972"
+  ],
+  "failing": [],
+  "linking_form_sign_decides": 64,
+  "searched": 231,
+  "knotinfo_diagram_definite": []
+ },
+ "knots": {
+  "13n_1000": {
+   "knot": "13n_1000",
+   "det": 83,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.8
+  },
+  "13n_1042": {
+   "knot": "13n_1042",
+   "det": 99,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_1234": {
+   "knot": "13n_1234",
+   "det": 103,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.8
+  },
+  "13n_1346": {
+   "knot": "13n_1346",
+   "det": 75,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_1469": {
+   "knot": "13n_1469",
+   "det": 51,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.7
+  },
+  "13n_1553": {
+   "knot": "13n_1553",
+   "det": 123,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_1621": {
+   "knot": "13n_1621",
+   "det": 27,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 6,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    true,
+    false
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.7
+  },
+  "13n_2222": {
+   "knot": "13n_2222",
+   "det": 51,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_2465": {
+   "knot": "13n_2465",
+   "det": 87,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.7
+  },
+  "13n_2486": {
+   "knot": "13n_2486",
+   "det": 63,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.1
+  },
+  "13n_2510": {
+   "knot": "13n_2510",
+   "det": 67,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    true,
+    false
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.7
+  },
+  "13n_2626": {
+   "knot": "13n_2626",
+   "det": 83,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_2632": {
+   "knot": "13n_2632",
+   "det": 67,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.7
+  },
+  "13n_2683": {
+   "knot": "13n_2683",
+   "det": 27,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_2732": {
+   "knot": "13n_2732",
+   "det": 63,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.7
+  },
+  "13n_3089": {
+   "knot": "13n_3089",
+   "det": 47,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3093": {
+   "knot": "13n_3093",
+   "det": 107,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3133": {
+   "knot": "13n_3133",
+   "det": 151,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3224": {
+   "knot": "13n_3224",
+   "det": 103,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3232": {
+   "knot": "13n_3232",
+   "det": 27,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3252": {
+   "knot": "13n_3252",
+   "det": 83,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3283": {
+   "knot": "13n_3283",
+   "det": 99,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3303": {
+   "knot": "13n_3303",
+   "det": 15,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3309": {
+   "knot": "13n_3309",
+   "det": 59,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3330": {
+   "knot": "13n_3330",
+   "det": 95,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.1
+  },
+  "13n_3388": {
+   "knot": "13n_3388",
+   "det": 71,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3439": {
+   "knot": "13n_3439",
+   "det": 147,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3587": {
+   "knot": "13n_3587",
+   "det": 23,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3597": {
+   "knot": "13n_3597",
+   "det": 107,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3599": {
+   "knot": "13n_3599",
+   "det": 131,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3603": {
+   "knot": "13n_3603",
+   "det": 31,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3613": {
+   "knot": "13n_3613",
+   "det": 155,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3616": {
+   "knot": "13n_3616",
+   "det": 127,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3720": {
+   "knot": "13n_3720",
+   "det": 175,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3732": {
+   "knot": "13n_3732",
+   "det": 39,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3794": {
+   "knot": "13n_3794",
+   "det": 99,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    true,
+    false
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_3884": {
+   "knot": "13n_3884",
+   "det": 75,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_401": {
+   "knot": "13n_401",
+   "det": 115,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_4013": {
+   "knot": "13n_4013",
+   "det": 7,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_4292": {
+   "knot": "13n_4292",
+   "det": 83,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 6,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    true,
+    false
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_4307": {
+   "knot": "13n_4307",
+   "det": 163,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_446": {
+   "knot": "13n_446",
+   "det": 11,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_460": {
+   "knot": "13n_460",
+   "det": 147,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_4698": {
+   "knot": "13n_4698",
+   "det": 95,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 6,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    true,
+    false
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.1
+  },
+  "13n_479": {
+   "knot": "13n_479",
+   "det": 79,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_4798": {
+   "knot": "13n_4798",
+   "det": 75,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_4817": {
+   "knot": "13n_4817",
+   "det": 127,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_4823": {
+   "knot": "13n_4823",
+   "det": 55,
+   "sigma": 6,
+   "sigma_knotinfo": 6,
+   "s": 6,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    true,
+    false
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_488": {
+   "knot": "13n_488",
+   "det": 147,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_4919": {
+   "knot": "13n_4919",
+   "det": 171,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.1
+  },
+  "13n_4955": {
+   "knot": "13n_4955",
+   "det": 99,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_5035": {
+   "knot": "13n_5035",
+   "det": 179,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_537": {
+   "knot": "13n_537",
+   "det": 79,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_582": {
+   "knot": "13n_582",
+   "det": 107,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_652": {
+   "knot": "13n_652",
+   "det": 31,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_694": {
+   "knot": "13n_694",
+   "det": 31,
+   "sigma": -6,
+   "sigma_knotinfo": -6,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_704": {
+   "knot": "13n_704",
+   "det": 107,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_780": {
+   "knot": "13n_780",
+   "det": 43,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 9,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_846": {
+   "knot": "13n_846",
+   "det": 163,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_899": {
+   "knot": "13n_899",
+   "det": 179,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_926": {
+   "knot": "13n_926",
+   "det": 83,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_946": {
+   "knot": "13n_946",
+   "det": 179,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_969": {
+   "knot": "13n_969",
+   "det": 163,
+   "sigma": -2,
+   "sigma_knotinfo": -2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.0
+  },
+  "13n_972": {
+   "knot": "13n_972",
+   "det": 183,
+   "sigma": 2,
+   "sigma_knotinfo": 2,
+   "s": 2,
+   "rank": 8,
+   "s_ok": true,
+   "chirality": [
+    1
+   ],
+   "diagram_ok": true,
+   "goeritz_isometric": [
+    false,
+    true
+   ],
+   "goeritz_ok": true,
+   "definite": true,
+   "det_ok": true,
+   "linking_form_ok": true,
+   "linking_form_sign_decides": true,
+   "embeds": false,
+   "passes": true,
+   "seconds": 0.1
+  }
+ }
+}

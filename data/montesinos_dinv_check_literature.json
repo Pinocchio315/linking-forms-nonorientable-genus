@@ -1,0 +1,33 @@
+{
+ "summary": {
+  "targets_obstructed": true,
+  "controls_checked": 0,
+  "controls_obstructed": [],
+  "d_spin_disagreements": [],
+  "skipped": 0
+ },
+ "knots": {
+  "11n_57": {
+   "role": "target",
+   "regina": "SFS [S2: (2,1) (3,1) (11,-8)]",
+   "plumbing_rank": 8,
+   "det": 7,
+   "u": 3,
+   "d": {
+    "0": "3/2",
+    "1": "1/14",
+    "2": "25/14",
+    "3": "9/14",
+    "4": "9/14",
+    "5": "25/14",
+    "6": "1/14"
+   },
+   "d_spin": "3/2",
+   "d_spin_rank1_dinv": "3/2",
+   "obstructed": true,
+   "obstructed_rank1_dinv": true,
+   "passing": []
+  }
+ },
+ "skipped": {}
+}

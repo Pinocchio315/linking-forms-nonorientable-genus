@@ -1,0 +1,8 @@
+Examples 3.5 and 3.6 of the theory paper; snappy 3.3.2, spherogram 2.4.1
+J = P(3,-3,1): 7 crossings, determinant 9, complement of 6_1: True, Goeritz matrix [[0, 3], [3, -2]] (that of the paper: True; minus it: False); b_0 gives the two-component unlink: True
+b_-3 (t = -3): 1 component(s), Goeritz matrix of the five white regions that of the incidences of the paper: True (minus it: False), Smith normal form [1, 1, 1, 27], complement of 8_10: True
+b_3 (t = 3): determinant 27, complement of 10_143: True; b_-2 (t = -2): two components: True
+b' in the bigon of b_-2 with 2 crossings (t = -2): 1 component(s), determinant 27, Goeritz matrix in the basis X_1, X_2, Y_1, Y_2 [[0, 3, 0, 0], [3, -3, 1, 0], [0, 1, 1, -2], [0, 0, -2, 1]], the matrix G' of the paper: True (minus it: False); Smith normal form [1, 1, 1, 27]; complement of 8_11: True
+PD code of K (KnotInfo convention): [(20, 14, 1, 13), (14, 2, 15, 1), (2, 16, 3, 15), (5, 12, 6, 13), (11, 4, 12, 5), (3, 10, 4, 11), (16, 9, 17, 10), (17, 7, 18, 6), (7, 19, 8, 18), (19, 9, 20, 8)]; Goeritz matrix that of the paper: True (minus it: False); complement of 8_10: True
+PD code of K' (KnotInfo convention): [(22, 9, 1, 10), (10, 21, 11, 22), (20, 11, 21, 12), (17, 9, 18, 8), (7, 19, 8, 18), (19, 7, 20, 6), (12, 5, 13, 6), (13, 16, 14, 17), (1, 4, 2, 5), (2, 15, 3, 16), (14, 3, 15, 4)]; Goeritz matrix that of the paper: True (minus it: False); complement of 8_11: True
+all checks pass: True
