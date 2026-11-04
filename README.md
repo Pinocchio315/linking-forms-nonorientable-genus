@@ -1,9 +1,10 @@
 # Smooth and topological nonorientable four-genera of low-crossing knots: code and data
 
 This repository contains the programs and the recorded results of the computations of the paper [C] *Smooth and
-Topological Nonorientable Four-Genera of Low-Crossing Knots* by Seong-Jin Lee.  [C] uses the results of the theory paper
-[T] *Linking-Form Splittings and Four-Dimensional Genera of Knots*, arXiv:2610.40183.  Theorem, section and table
-numbers below refer to the version of [C] of November 2026 and to arXiv:2610.40183v1.
+Topological Nonorientable Four-Genera of Low-Crossing Knots* by Seong-Jin Lee,
+[arXiv:2611.04243](https://arxiv.org/abs/2611.04243).  [C] uses the results of the theory paper [T] *Linking-Form
+Splittings and Four-Dimensional Genera of Knots*, [arXiv:2610.40183](https://arxiv.org/abs/2610.40183).  Theorem,
+section and table numbers below refer to arXiv:2611.04243v1 and arXiv:2610.40183v1.
 
 - `scripts/` holds the programs.  Each script states its purpose, its usage and its output in its docstring.
 - `data/` holds their outputs.  These are the records on which the counts, tables and theorems of [C] rest.
@@ -319,7 +320,7 @@ python -I scripts/knotinfo_compare.py path/to/2026.10.5/knotinfo_data_complete.c
 
 - The linking-form and lattice computations use exact integer and rational arithmetic.
 - The random Reidemeister moves of spherogram cannot be seeded.  So every diagram used in the searches for [C] Theorem
-  4.1 and for the punctured Klein bottles is stored in `smooth_top_gap.json` and `klein_bottle_search.json`, and the
+  B and for the punctured Klein bottles is stored in `smooth_top_gap.json` and `klein_bottle_search.json`, and the
   mode `replay` of `smooth_top_gap.py` and of `klein_bottle_search.py` scans the stored diagrams again; on the final
   output the replay of `smooth_top_gap.py` reproduced the results for all 81 candidates of [C] §4.  The other searches
   store their diagrams as well (see Algorithms and checks).
@@ -327,3 +328,21 @@ python -I scripts/knotinfo_compare.py path/to/2026.10.5/knotinfo_data_complete.c
   data).
 - `montesinos_dinv_check.py` seeds the randomised triangulations of SnapPy and Regina, so it reproduces its output
   file exactly.
+
+## Citation
+
+If you use this code or data, please cite [C]:
+
+S.-J. Lee, *Smooth and topological nonorientable four-genera of low-crossing knots*, arXiv:2611.04243 (2026).
+
+```bibtex
+@misc{Lee2026LowCrossing,
+  author        = {Seong-Jin Lee},
+  title         = {Smooth and Topological Nonorientable Four-Genera of Low-Crossing Knots},
+  year          = {2026},
+  eprint        = {2611.04243},
+  archivePrefix = {arXiv},
+  primaryClass  = {math.GT},
+  url           = {https://arxiv.org/abs/2611.04243}
+}
+```
